@@ -1,0 +1,80 @@
+agnosis": [{
+		"decisionPointer": 3,
+		"herbs": [{
+			"herbName": "\u67F4\u80E1",
+			"herbWeight": 125.0,
+			"herbUnit": "g"
+		}, {
+			"herbName": "\u534A\u590F",
+			"herbWeight": 125.0,
+			"herbUnit": "g"
+		}, {
+			"herbName": "\u9EC4\u82A9",
+			"herbWeight": 46.875,
+			"herbUnit": "g"
+		}, {
+			"herbName": "\u4EBA\u53C2",
+			"herbWeight": 46.875,
+			"herbUnit": "g"
+		}, {
+			"herbName": "\u7518\u8349",
+			"herbWeight": 46.875,
+			"herbUnit": "g"
+		}, {
+			"herbName": "\u751F\u59DC",
+			"herbWeight": 46.875,
+			"herbUnit": "g"
+		}, {
+			"herbName": "\u5927\u67A3",
+			"herbWeight": 36,
+			"herbUnit": "g"
+		}],
+		"finalValue": 0.9201809,
+		"prescriptions": [{
+			"solved": ["\u8EAB\u70ED", "\u6076\u5BD2"],
+			"validity": 0.9201809,
+			"prescriptionName": "\u5C0F\u67F4\u80E1\u6C64"
+		}]
+	}, {
+		"decisionPointer": 3,
+		"herbs": null,
+		"finalValue": 0.8244764,
+		"prescriptions": [{
+			"solved": ["\u8EAB\u70ED", "\u6076\u5BD2"],
+			"validity": 0.8244764,
+			"prescriptionName": "\u6842\u679D\u6C64"
+		}]
+	}, {
+		"decisionPointer": 2,
+		"herbs": null,
+		"finalValue": 0.7256398,
+		"prescriptions": [{
+			"solved": ["\u8EAB\u70ED"],
+			"validity": 0.5310987,
+			"prescriptionName": "\u5927\u627F\u6C14\u6C64(\u4EA7\u540E)"
+		}, {
+			"solved": ["\u8EAB\u70ED", "\u6076\u5BD2"],
+			"validity": 0.9201809,
+			"prescriptionName": "\u5C0F\u67F4\u80E1\u6C64"
+		}]
+	}, {
+		"decisionPointer": 3,
+		"herbs": null,
+		"finalValue": 0.26554936,
+		"prescriptions": [{
+			"solved": ["\u8EAB\u70ED"],
+			"validity": 0.5310987,
+			"prescriptionName": "\u5927\u627F\u6C14\u6C64(\u4EA7\u540E)"
+		}]
+	}, {
+		"decisionPointer": 3,
+		"herbs": null,
+		"finalValue": 0.2503968,
+		"prescriptions": [{
+			"solved": ["\u6076\u5BD2"],
+			"validity": 0.5007936,
+			"prescriptionName": "\u5E72\u59DC\u9644\u5B50\u6C64"
+		}]
+	}],
+	"qa": ["a", "b", "c"]
+}
